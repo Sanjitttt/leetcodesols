@@ -1,2 +1,2 @@
 # leetcodesols
-you can fimd the solution to leetcode problems as i complete them everyday 
+you can find the solution to leetcode problems as I complete them everyday 
